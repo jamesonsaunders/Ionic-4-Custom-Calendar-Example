@@ -1,6 +1,6 @@
 # Ionic 4 Custom Calendar Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Custom Calendar Tutorial](https://www.youtube.com/watch?v=SYz-tH3XOF8).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Custom Calendar Tutorial](https://www.youtube.com/watch?v=SYz-tH3XOF8) as well as the blog article [Ionic 4 Custom Calendar Tutorial](https://blog.jamibot.com/ionic-4-custom-calendar).
 
 [![Ionic 4 Custom Calendar Tutorial](https://img.youtube.com/vi/SYz-tH3XOF8/maxresdefault.jpg)](https://www.youtube.com/watch?v=SYz-tH3XOF8)
 
